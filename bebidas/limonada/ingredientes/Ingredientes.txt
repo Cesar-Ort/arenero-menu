@@ -1,6 +1,5 @@
 -Limon
--Azucar
 -Hielo
+-Refresco de gas
 -Hierbabuena
--Rodajas_de_limon
-
+-Cascara de limon
